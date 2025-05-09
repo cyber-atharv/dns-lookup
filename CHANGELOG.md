@@ -11,3 +11,6 @@ All notable changes to dns-lookup will be documented in this file.
 ## [0.1.2] - 2025-05-06
 - feat: implement reverse DNS lookup for IP ranges
 
+## [0.1.3] - 2025-05-09
+- fix: handle DNS resolution timeout gracefully without throwing exception
+
